@@ -40,3 +40,6 @@ ul {
     margin-right: 16px;
     font-size: 17px;
   }
+  form{
+      display:flexbox;
+  }
