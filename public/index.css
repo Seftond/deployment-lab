@@ -42,7 +42,7 @@ ul {
   }
   /* Style inputs */
   input[type=text], select {
-    width: 100%;
+    width: 25%;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
@@ -53,7 +53,7 @@ ul {
   
   /* Style the submit button */
   input[type=submit] {
-    width: 100%;
+    width: 20px;
     background-color: #04AA6D;
     color: white;
     padding: 14px 20px;
