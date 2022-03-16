@@ -41,8 +41,5 @@ ul {
     font-size: 17px;
   }
 
-form input{
-    display: flexbox;
-    flex-direction: row;
-}
+
   
